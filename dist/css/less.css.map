@@ -1,0 +1,1 @@
+{"version":3,"sources":["less.less"],"names":[],"mappings":"AACA,KACI,UAAA,KACA,QAAA,KAEJ,EACC,MAAA","file":"less.css","sourcesContent":["@base_s : 10px;\r\nbody{\r\n    font-size:12px;\r\n    padding: @base_s;\r\n}\r\na{\r\n\tcolor: #0093dd;\r\n}"]}
